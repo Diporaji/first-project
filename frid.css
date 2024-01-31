@@ -1,0 +1,49 @@
+p{
+    background-image: url(access/myiii.jpg);
+    background-position: left;
+    background-repeat: repeat-x;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1{
+    color: brown;
+}
+ul{
+    background: orange;
+    width: fit-content;
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+
+    padding: 50px 50px 50px 50px;
+
+    margin-top: 50px;
+    margin-right: 50px;
+    margin-bottom: 80px;
+    margin-left: 90px;
+
+    margin: 50px 50px 80px 90px;
+
+    border-width: 50px;
+    border-style: dotted;
+    border-color: blue;
+
+    border-top: 20px ridge red;
+    border-right: 20px ridge yellow;
+    border-left: 20px ridge green;
+    border-bottom: 20px ridge blue;
+    
+    outline: 10px;
+    outline-style: ridge;
+    outline-color: red;
+
+    box-shadow: inset -10px 10px 20px black;
+    border-radius: 5px 10px 10px 5px;
+    
+    
+}
+button{
+    border: none;
+    background: red;
+}

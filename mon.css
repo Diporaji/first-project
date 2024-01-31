@@ -1,0 +1,35 @@
+body{
+    background-image: url(access/dann.JPG);
+    
+}
+   form{
+    width: fit-content;
+    padding: 20px;
+    margin: 0px auto;
+    border-radius: 5%;
+    box-shadow: inset 0px 0px 20px white;
+    
+   } 
+label{
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+input{
+    padding: 10px 5px;
+    outline: none;
+    border: none;
+    border-bottom: 1px solid white;
+    background: transparent;
+}
+button{
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+}
+img{
+    width: 200px;
+    height: 200px;
+    opacity: 0.9;
+    filter: brightes();
+}

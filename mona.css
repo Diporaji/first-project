@@ -1,0 +1,35 @@
+body{
+    background-image: url(access/dann.JPG);
+}
+form{
+    width: 30%;
+    padding: 70px;
+    margin: 0px auto;
+    border-radius: 5%;
+    box-shadow: inset 0px 0px 70px rgb(255, 255, 255);
+    border-color: transparent;
+    
+   } 
+label{
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+input{
+    padding: 10px;
+    outline: none;
+    border: none;
+    background: transparent;
+    box-shadow: inset 0px 0px 20px aliceblue;
+    
+}
+button{
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    width: 100%;
+    background: transparent;
+    box-shadow: inset 0px 0px 20px aliceblue;
+    color: white;
+}
+    

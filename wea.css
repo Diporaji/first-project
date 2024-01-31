@@ -1,0 +1,28 @@
+button{
+    padding: 10px;
+    border: 1px solid red;
+    background: transparent;
+}
+input{
+    padding: 10px;
+    border: none;
+    outline: 1px solid green;
+    background: red;
+}
+input[type="text"]{
+    background: orange;
+}
+input[type="number"]{
+    background: green;
+}
+input[type="password"]{
+    background: orange;
+}
+input[type="checkbox"]{
+    accent-color: blue;
+    height: 30px;
+    width: 30px;
+    padding: 20px;
+}
+
+

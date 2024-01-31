@@ -1,0 +1,59 @@
+.yes{
+    background: purple;
+    padding: 10px;
+    margin: 10px 0px;
+}
+.not{
+    display: inline-block;
+    padding: 10px;
+    background: red;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+.tob{
+    background: yellow;
+    padding: 10px;
+    width: fit-content;
+}
+input{
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.one{
+    background: rgb(131, 131, 230);
+    padding: 10px;
+    display: inline-block;
+}
+.seven{
+    background-color: aqua; 
+    width: fit-content;
+
+}
+.six{
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    background: red;
+}
+.two{
+    width: fit-content;
+    display: inline-block;
+}
+.three{
+    list-style-type: none;
+    padding: 10px;
+    width: fit-content;
+}
+.four{
+    display: inline-block;
+    padding: 10px;
+    background: red;
+}
+.five{
+ display: inline-block; 
+ width: fit-content;
+ padding: 5px;  
+}

@@ -1,0 +1,39 @@
+ul{
+    list-style-type: none;
+}
+ol{
+    list-style-type: circle;
+}
+ul{
+    padding-left: 0px;
+}
+a:link{
+    text-decoration: none;
+    background: red;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+a:hover{
+    background: blue;
+    color: white;
+}
+a:active{
+    background: gold;
+    color: red;
+}
+a:visited{
+    background: black;
+}
+table{
+    width: 100%;
+    border: 10px groove gold;
+    border-collapse: no-collapse;
+    border-spacing: 10px;
+    background-image:url(access/dann.JPG);
+}
+td{
+    border: 1px solid black;
+    padding: 10px;
+    background: yellow;
+}

@@ -1,0 +1,19 @@
+div{
+    background: yellow;
+    width: fit-content;
+    padding: 5px 5px 5px 5px;
+    margin: 50px 50px 80px 90px;
+
+    border-width: 50px;
+    border-style: dotted;
+    border-color: blue;
+
+    border-top: 20px ridge red;
+    border-right: 20px ridge yellow;
+    border-left: 20px ridge green;
+    border-bottom: 20px ridge blue;
+
+    outline: 10px;
+    outline-style: ridge;
+    outline-color: red;
+}

@@ -1,0 +1,15 @@
+h1{
+    background: gold;
+    word-spacing: 30px;
+    letter-spacing: 20px;
+    line-height: 60px;
+}
+h2{
+    background: red;
+}
+h3{
+    background: blue;
+}
+h4{
+    background: orange;
+}
