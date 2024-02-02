@@ -1,0 +1,34 @@
+.one{
+    background: greenyellow;
+    width: 100%;
+    height: 300px;
+    padding: 5px;
+    margin: 10px;
+
+
+    
+}
+.two{
+    background: yellow;
+    border: none;
+    padding: 10px;
+}
+.na{
+    text-align: center;
+}
+.four{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+}
+.five{
+  font-size: 50px;  
+}
+.six{
+    font-size: 50px; 
+}
+h1{
+    font-family: 'Single Day', cursive;
+}
